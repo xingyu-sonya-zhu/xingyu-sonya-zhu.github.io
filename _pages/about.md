@@ -26,7 +26,7 @@ redirect_from:
 
 ### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee: 
-    - 5th BIS Workshop on Research on Global Financial Stability. [**Submission Deadline: 31 July 2023.**](https://www.bis.org/events/cgfs_ibfsws5.htm)
+    - 5th BIS Workshop on Research on Global Financial Stability. 
     - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. 27-28 April 2023.
     - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 13 December 2022.
   * Recruitment Committee (2021, 2022).
@@ -39,7 +39,7 @@ redirect_from:
 * B.A. in Mathematical Economics, Wuhan University, 2013.
 
 ### ACADEMIC PRESENTATIONS
-* 2023 Behavioral Macroeconomics Workshop (scheduled), BIS-SNB Research Workshop. 
+* 2023 Behavioral Macroeconomics Workshop, BIS-SNB Research Workshop. 
 * 2022 and earlier
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
