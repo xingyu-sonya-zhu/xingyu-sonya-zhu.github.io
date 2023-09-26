@@ -16,9 +16,11 @@ redirect_from:
   * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia). 
 
 ### WORKING IN PROGRESS
-  * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf). 
+  * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf).
 
 ### OTHER PUBLICATIONS
+  * [Non-bank financial institutions remain a key driver of non-US banks' dollar funding](https://www.bis.org/publ/qtrpdf/r_qt2309z.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
+  * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Iñaki Aldasoro and Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
 
