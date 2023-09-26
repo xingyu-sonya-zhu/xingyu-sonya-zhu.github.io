@@ -20,15 +20,15 @@ redirect_from:
 
 ### OTHER PUBLICATIONS
   * [Non-bank financial institutions remain a key driver of non-US banks' dollar funding](https://www.bis.org/publ/qtrpdf/r_qt2309z.htm) (with Iñaki Aldasoro and Bryan Hardy). BIS Quarterly Review, March 2023.
-  * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (Bryan Hardy). BIS Quarterly Review, March 2023.
+  * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
 
 ### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee: 
-    - 5th BIS Workshop on Research on Global Financial Stability. 
-    - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. 27-28 April 2023.
-    - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 13 December 2022.
+    - 5th BIS Workshop on Research on Global Financial Stability. December 2023.
+    - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. April 2023.
+    - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. December 2022.
   * Recruitment Committee (2021, 2022).
   * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
 
