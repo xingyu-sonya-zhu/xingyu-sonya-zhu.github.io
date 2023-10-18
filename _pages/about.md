@@ -38,8 +38,8 @@ redirect_from:
 * B.S. in Applied Mathematics, Wuhan University, 2013.
 * B.A. in Mathematical Economics, Wuhan University, 2013.
 
-### ACADEMIC PRESENTATIONS
-* 2023 Behavioral Macroeconomics Workshop, BIS-SNB Research Workshop. 
+### ACADEMIC PRESENTATIONS (* are by coauthors)
+* 2023 Behavioral Macroeconomics Workshop, BIS-SNB Research Workshop, AWG-MPAG Annual Workshop, Workshop on Macroeconomics and Survey Data*. 
 * 2022 and earlier
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
