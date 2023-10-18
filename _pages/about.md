@@ -18,6 +18,18 @@ redirect_from:
 ### WORKING IN PROGRESS
   * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf).
 
+### EDUCATION
+* Ph.D. in Finance, Stockholm School of Economics, 2021.
+* M.A. in Economics, Simon Fraser University, 2014.
+* B.S. in Applied Mathematics, Wuhan University, 2013.
+* B.A. in Mathematical Economics, Wuhan University, 2013.
+
+### ACADEMIC PRESENTATIONS (* are by coauthors)
+* 2023
+  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, Sydney Banking and Financial Stability Conference (scheduled), Workshop on Macroeconomics and Survey Data* (scheduled).
+* 2022 and earlier
+  - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
+
 ### OTHER PUBLICATIONS
   * [Non-bank financial institutions remain a key driver of non-US banks' dollar funding](https://www.bis.org/publ/qtrpdf/r_qt2309z.htm) (with Iñaki Aldasoro and Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
@@ -31,18 +43,6 @@ redirect_from:
     - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. December 2022.
   * Recruitment Committee (2021, 2022).
   * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
-
-### EDUCATION
-* Ph.D. in Finance, Stockholm School of Economics, 2021.
-* M.A. in Economics, Simon Fraser University, 2014.
-* B.S. in Applied Mathematics, Wuhan University, 2013.
-* B.A. in Mathematical Economics, Wuhan University, 2013.
-
-### ACADEMIC PRESENTATIONS (* are by coauthors)
-* 2023
-  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, Sydney Banking and Financial Stability Conference (scheduled), Workshop on Macroeconomics and Survey Data* (scheduled).
-* 2022 and earlier
-  - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
 ### PAPER DISCUSSIONS
   * Ehsan Azarmsa and Jian Li. The Pricing and Welfare Implications of Non-anonymous Trading. 
