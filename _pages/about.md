@@ -40,7 +40,7 @@ redirect_from:
 
 ### ACADEMIC PRESENTATIONS (* are by coauthors)
 * 2023
-  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS-SNB Research Workshop, Sydney Banking and Financial Stability Conference (scheduled), Workshop on Macroeconomics and Survey Data* (scheduled).
+  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, Sydney Banking and Financial Stability Conference (scheduled), Workshop on Macroeconomics and Survey Data* (scheduled).
 * 2022 and earlier
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
