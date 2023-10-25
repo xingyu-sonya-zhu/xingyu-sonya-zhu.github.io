@@ -35,6 +35,7 @@ redirect_from:
   * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
+    - In this paper, we construct indicators that track the liquidity (market) conditions in the FX market, money market, and US Treasury market. Real-time data can be found [here](https://dataviz.bis.org/t/MED/views/MCI/MCI?:embed=y&:isGuestRedirectFromVizportal=y&:display_count=n&:showVizHome=n&:origin=viz_share_link). 
 
 ### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee: 
