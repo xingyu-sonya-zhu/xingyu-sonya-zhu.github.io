@@ -30,6 +30,17 @@ redirect_from:
 * 2022 and earlier
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
+### ACADEMIC PRESENTATIONS (* are presentations by coauthors)
+* 2023 Behavioral Macroeconomics Workshop, BIS-SNB Research Workshop, AWG-MPAG 6th Annual Workshop, Workshop on macroeconomics and survey data*. 
+* 2022 and earlier
+  - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
+
+### EDUCATION
+* Ph.D. in Finance, Stockholm School of Economics, 2021.
+* M.A. in Economics, Simon Fraser University, 2014.
+* B.S. in Applied Mathematics, Wuhan University, 2013.
+* B.A. in Mathematical Economics, Wuhan University, 2013.
+
 ### OTHER PUBLICATIONS
   * [Non-bank financial institutions remain a key driver of non-US banks' dollar funding](https://www.bis.org/publ/qtrpdf/r_qt2309z.htm) (with Iñaki Aldasoro and Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
