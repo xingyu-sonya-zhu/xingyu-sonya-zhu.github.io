@@ -12,11 +12,11 @@ redirect_from:
   * [Non-standard errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld et al.). Journal of Finance, forthcoming.
 
 ### WORKING PAPERS
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**submitted**).
+  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
   * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia). 
 
 ### WORKING IN PROGRESS
-  * Monetary policy uncertainty (with Phillipp Gnan and Andreas Schrimpf).
+  * Monetary policy uncertainty (with Andreas Schrimpf).
 
 ### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
