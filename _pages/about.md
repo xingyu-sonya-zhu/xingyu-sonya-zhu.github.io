@@ -17,6 +17,8 @@ redirect_from:
 
 ### WORKING IN PROGRESS
   * Monetary policy uncertainty (with Andreas Schrimpf).
+  * Central banking language models (with Leonardo Gambacorta, Byeungchun Kwon, Taejin Park, Pietro Patelli)
+  * Predicting financial market stress: A machine learning approach (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf)
 
 ### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
