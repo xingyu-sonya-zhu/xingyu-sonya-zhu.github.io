@@ -17,7 +17,7 @@ redirect_from:
 
 ### WORKING IN PROGRESS
   * Monetary policy uncertainty (with Andreas Schrimpf).
-  * Central banking language models (with Leonardo Gambacorta, Byeungchun Kwon, Taejin Park, Pietro Patelli)
+  * Central bank language models (with Leonardo Gambacorta, Byeungchun Kwon, Taejin Park, Pietro Patelli)
   * Predicting financial market stress: a machine learning approach (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf)
 
 ### EDUCATION
