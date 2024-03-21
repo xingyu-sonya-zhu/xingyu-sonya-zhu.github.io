@@ -35,17 +35,19 @@ redirect_from:
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
 ### OTHER PUBLICATIONS
-  * [Non-bank financial institutions remain a key driver of non-US banks' dollar funding](https://www.bis.org/publ/qtrpdf/r_qt2309z.htm) (with Iñaki Aldasoro and Bryan Hardy). BIS Quarterly Review, March 2023.
+  * [International finance through the lens of BIS statistics: residence vs nationality](https://www.bis.org/publ/qtrpdf/r_qt2403f.htm) (with Patrick McGuire and Goetz von Peter). BIS Quarterly Review, March 2024.
+  * [The return of monetary policy uncertainty](https://www.bis.org/publ/qtrpdf/r_qt2403f.htm) (with Matteo Aquilina and Marco Jacopo Lombardi). BIS Quarterly Review, March 2024.
   * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
+  * [Non-bank financial institutions remain a key driver of non-US banks' dollar funding](https://www.bis.org/publ/qtrpdf/r_qt2309z.htm) (with Iñaki Aldasoro and Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Covid, central banks and the bank-sovereign nexus](https://www.bis.org/publ/qtrpdf/r_qt2303h.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
   * [Under pressure: market conditions and stress](https://www.bis.org/publ/qtrpdf/r_qt2209c.htm) (with Iñaki Aldasoro and Peter Hördahl). BIS Quarterly Review, September 2022.
     - In this paper, we construct indicators that track liquidity (market) conditions in the FX market, the US money market, and the US Treasury market. Real-time data are available [here](https://dataviz.bis.org/t/MED/views/MCI/MCI?:embed=y&:isGuestRedirectFromVizportal=y&:display_count=n&:showVizHome=n&:origin=viz_share_link). 
 
 ### OTHER PROFESSIONAL ACTIVITIES
-  * Organizing Committee: 
-    - 5th BIS Workshop on Research on Global Financial Stability. December 2023.
-    - Policy Challenges and International Spillovers in Times of High Inflation. Co-organize with BoE, ECB and IMF. April 2023.
-    - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. December 2022.
+  * Organizing Committee:
+    - Joint BIS, BoE, ECB and IMF Spillover Conference (2024, 2023)
+    - 5th BIS Workshop on Research on Global Financial Stability. 2023.
+    - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 2022.
   * Recruitment Committee (2021, 2022).
   * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
 
