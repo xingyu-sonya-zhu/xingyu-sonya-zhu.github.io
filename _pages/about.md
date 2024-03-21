@@ -27,8 +27,10 @@ redirect_from:
 * B.A. in Mathematical Economics, Wuhan University, 2013.
 
 ### ACADEMIC PRESENTATIONS (* are by coauthors)
+* 2024
+  - ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, Southern Workshop in Macroeconomics*, Swiss National Bank. 
 * 2023
-  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, CEPR Paris Symposium* (scheduled), Sydney Banking and Financial Stability Conference (scheduled), Workshop on Macroeconomics and Survey Data (scheduled).
+  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, BOK-BOJ Joint Research Workshop*,  CEPR Paris Symposium*, Sydney Banking and Financial Stability Conference, Lund University, Workshop on Macroeconomics and Survey Data.
 * 2022 and earlier
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
@@ -48,12 +50,10 @@ redirect_from:
   * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
 
 ### PAPER DISCUSSIONS
-  * Ehsan Azarmsa and Jian Li. The Pricing and Welfare Implications of Non-anonymous Trading. 
-     - Eastern Finance Association; April 2021.
-  * Olivier Darmouni and Melina Papoutsi. The Rise of Bond Financing in Europe. 
-     - World Finance & Banking Symposium; December 2020.
-  * Richard K. Lyons and Ganesh Viswanath-Natraj. What Keeps Stablecoins Stable?
-     - Australasian Finance & Banking Conference; December 2020.
+  * Lembergman, Hajdini, Leer and Schoenle. The Expectations of Others. 2023
+  * Azarmsa and Li. The Pricing and Welfare Implications of Non-anonymous Trading. 2021
+  * Darmouni and Papoutsi. The Rise of Bond Financing in Europe. 2020
+  * Lyons and Natraj. What Keeps Stablecoins Stable? 2020
   
 ### TEACHING
   * Corporate Finance (Master, Stockholm School of Economics, 2016, 2020).
