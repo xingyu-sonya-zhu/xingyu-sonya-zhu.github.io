@@ -52,7 +52,7 @@ redirect_from:
   * Recruitment Committee (2021, 2022).
   * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
 
-### PAPER DISCUSSIONS
+### SELECTED PAPER DISCUSSIONS
   * Lembergman, Hajdini, Leer and Schoenle. The Expectations of Others. 2023
   * Azarmsa and Li. The Pricing and Welfare Implications of Non-anonymous Trading. 2021
   * Darmouni and Papoutsi. The Rise of Bond Financing in Europe. 2020
