@@ -26,11 +26,11 @@ redirect_from:
 * B.S. in Applied Mathematics, Wuhan University, 2013.
 * B.A. in Mathematical Economics, Wuhan University, 2013.
 
-### ACADEMIC PRESENTATIONS (* are by coauthors)
+### ACADEMIC PRESENTATIONS (italics are by coauthors)
 * 2024
-  - ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, Southern Workshop in Macroeconomics*, Swiss National Bank. 
+  - ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, Swiss National Bank. 
 * 2023
-  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, BOK-BOJ Joint Research Workshop*,  CEPR Paris Symposium*, Sydney Banking and Financial Stability Conference, Lund University, Workshop on Macroeconomics and Survey Data.
+  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, _BOK-BOJ Joint Research Workshop_,  _CEPR Paris Symposium_, Sydney Banking and Financial Stability Conference, Lund University, Workshop on Macroeconomics and Survey Data.
 * 2022 and earlier
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
