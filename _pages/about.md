@@ -28,7 +28,7 @@ redirect_from:
 
 ### ACADEMIC PRESENTATIONS (italics are by coauthors)
 * 2024
-  - ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, Swiss National Bank. 
+  - Lund University, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, Swiss National Bank. 
 * 2023
   - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, _BOK-BOJ Joint Research Workshop_,  _CEPR Paris Symposium_, Sydney Banking and Financial Stability Conference, Lund University, Workshop on Macroeconomics and Survey Data.
 * 2022 and earlier
@@ -53,6 +53,8 @@ redirect_from:
   * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
 
 ### SELECTED PAPER DISCUSSIONS
+  * Kiss and Strasser. Inflation heterogeneity across households. 2024
+  * Fischer, McCaughrin, Prazad, and Vandergon. Fed Transparency and Policy Expectation Errors: A Text Analysis Approach. 2024
   * Lembergman, Hajdini, Leer and Schoenle. The Expectations of Others. 2023
   * Azarmsa and Li. The Pricing and Welfare Implications of Non-anonymous Trading. 2021
   * Darmouni and Papoutsi. The Rise of Bond Financing in Europe. 2020
