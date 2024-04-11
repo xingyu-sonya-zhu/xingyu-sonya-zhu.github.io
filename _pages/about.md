@@ -36,7 +36,7 @@ redirect_from:
 
 ### OTHER PUBLICATIONS
   * [International finance through the lens of BIS statistics: residence vs nationality](https://www.bis.org/publ/qtrpdf/r_qt2403f.htm) (with Patrick McGuire and Goetz von Peter). BIS Quarterly Review, March 2024.
-  * [The return of monetary policy uncertainty](https://www.bis.org/publ/qtrpdf/r_qt2403f.htm) (with Matteo Aquilina and Marco Jacopo Lombardi). BIS Quarterly Review, March 2024.
+  * [The return of monetary policy uncertainty](https://www.bis.org/publ/qtrpdf/r_qt2403w.htm#:~:text=Uncertainty%20about%20policy%20rates%20is,firmly%20on%20central%20banks%27%20deliberations.) (with Matteo Aquilina and Marco Jacopo Lombardi). BIS Quarterly Review, March 2024.
   * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
     - Media coverage: [CENTRAL BANKING](https://www.centralbanking.com/central-banks/financial-stability/7959750/banks-increasingly-reliant-on-flighty-finance-bis-finds)
   * [Non-bank financial institutions remain a key driver of non-US banks' dollar funding](https://www.bis.org/publ/qtrpdf/r_qt2309z.htm) (with Iñaki Aldasoro and Bryan Hardy). BIS Quarterly Review, March 2023.
