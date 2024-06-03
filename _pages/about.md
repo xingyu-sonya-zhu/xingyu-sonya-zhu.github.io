@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### ACADEMIC PUBLICATIONS
-  * [Non-standard errors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574) (with Albert Menkveld et al.). Journal of Finance, forthcoming.
+  * [Non-standard errors](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337) (with Albert Menkveld et al.). Journal of Finance.
 
 ### WORKING PAPERS
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
