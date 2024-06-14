@@ -35,6 +35,7 @@ redirect_from:
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
 ### OTHER PUBLICATIONS
+  * [International finance through the lens of BIS statistics: the global reach of currencies](https://www.bis.org/publ/qtrpdf/r_qt2406b.htm) (with Patrick McGuire and Goetz von Peter). BIS Quarterly Review, June 2024.
   * [International finance through the lens of BIS statistics: residence vs nationality](https://www.bis.org/publ/qtrpdf/r_qt2403f.htm) (with Patrick McGuire and Goetz von Peter). BIS Quarterly Review, March 2024.
   * [The return of monetary policy uncertainty](https://www.bis.org/publ/qtrpdf/r_qt2403w.htm#:~:text=Uncertainty%20about%20policy%20rates%20is,firmly%20on%20central%20banks%27%20deliberations.) (with Matteo Aquilina and Marco Jacopo Lombardi). BIS Quarterly Review, March 2024.
   * [Unpacking international banks' deposit funding](https://www.bis.org/publ/qtrpdf/r_qt2309d.htm) (with Bryan Hardy). BIS Quarterly Review, March 2023.
