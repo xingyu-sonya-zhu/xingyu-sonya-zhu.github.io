@@ -27,7 +27,7 @@ redirect_from:
 * 2025
   - AEA (scheduled).
 * 2024
-  - BOK-BOJ Joint Research Workshop, Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics workshop, Swiss National Bank. 
+  - Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics workshop, Swiss National Bank. 
 * 2023
   - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, _BOK-BOJ Joint Research Workshop_,  _CEPR Paris Symposium_, Sydney Banking and Financial Stability Conference, Workshop on Macroeconomics and Survey Data.
 * 2022 and earlier
