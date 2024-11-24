@@ -13,12 +13,9 @@ redirect_from:
 
 ### SELECTED WORKING PAPERS
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
-  * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia). 
-
-### SELECTED WORKING IN PROGRESS
-  * Monetary Policy Uncertainty
-  * Predicting Financial Market Stress: a Machine Learning Approach
-  * Passive Institutional Ownership
+  * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**).
+  * [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev).
+  * Passive Institutional Ownership and Cost of Debt (with Konrad Adler and Sebastian Doerr) (**draft coming soon**).
 
 ### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
@@ -28,11 +25,11 @@ redirect_from:
 
 ### ACADEMIC PRESENTATIONS (italics are by coauthors)
 * 2025
-  - AEA (poster session, scheduled).
+  - AEA (scheduled).
 * 2024
-  - Lund University, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, University of St Gallen (scheduled), Swiss National Bank. 
+  - BOK-BOJ Joint Research Workshop, Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics workshop, Swiss National Bank. 
 * 2023
-  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, _BOK-BOJ Joint Research Workshop_,  _CEPR Paris Symposium_, Sydney Banking and Financial Stability Conference, Lund University, Workshop on Macroeconomics and Survey Data.
+  - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, _BOK-BOJ Joint Research Workshop_,  _CEPR Paris Symposium_, Sydney Banking and Financial Stability Conference, Workshop on Macroeconomics and Survey Data.
 * 2022 and earlier
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
@@ -52,12 +49,13 @@ redirect_from:
 ### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee:
     - Joint BIS, BoE, ECB and IMF Spillover Conference (2024, 2023)
-    - 5th BIS Workshop on Research on Global Financial Stability. 2023.
-    - 12th Workshop on "Exchange Rates". Co-organize with Banca d'Italia and ECB. 2022.
-  * Recruitment Committee (2021, 2022).
-  * Board Member of Female Economist Network of Stockholm and Uppsala (2017).
+    - 5th BIS Workshop on Research on Global Financial Stability. 2023
+    - Workshop on "Exchange Rates" (2022, 2024)
+  * Recruitment Committee (2021, 2022)
+  * Board Member of Female Economist Network of Stockholm and Uppsala (2017)
 
 ### SELECTED PAPER DISCUSSIONS
+  * Bretscher, Schmid and Ye. Passive Demand and Active Supply: Evidence from Maturity-mandated Corporate Bond Funds. 2024
   * Kiss and Strasser. Inflation heterogeneity across households. 2024
   * Fischer, McCaughrin, Prazad, and Vandergon. Fed Transparency and Policy Expectation Errors: A Text Analysis Approach. 2024
   * Lembergman, Hajdini, Leer and Schoenle. The Expectations of Others. 2023
