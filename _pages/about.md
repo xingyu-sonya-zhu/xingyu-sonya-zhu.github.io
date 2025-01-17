@@ -15,7 +15,7 @@ redirect_from:
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
   * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**).
   * [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev).
-  * Passive Institutional Ownership and Cost of Debt (with Konrad Adler and Sebastian Doerr) (**draft coming soon**).
+  * Passive Institutional Ownership and Loan Spread (with Konrad Adler and Sebastian Doerr) (**draft coming soon**).
 
 ### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
