@@ -25,9 +25,9 @@ redirect_from:
 
 ### ACADEMIC PRESENTATIONS (italics are by coauthors)
 * 2025
-  - AEA (scheduled).
+  - AEA/AFA, BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation, _Lapland Investment Fund Summit_.
 * 2024
-  - Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics workshop, Swiss National Bank. 
+  - BIS Research Seminars (x2), Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics Workshop, Swiss National Bank. 
 * 2023
   - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, _BOK-BOJ Joint Research Workshop_,  _CEPR Paris Symposium_, Sydney Banking and Financial Stability Conference, Workshop on Macroeconomics and Survey Data.
 * 2022 and earlier
