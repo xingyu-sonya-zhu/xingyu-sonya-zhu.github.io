@@ -15,6 +15,7 @@ redirect_from:
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
   * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**).
   * [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev).
+  * [Predicting financial market stress with machine learning](https://www.bis.org/publ/work1250.htm) (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf)
   * Passive Institutional Ownership and Loan Spread (with Konrad Adler and Sebastian Doerr) (**draft coming soon**).
 
 ### EDUCATION
@@ -25,9 +26,9 @@ redirect_from:
 
 ### ACADEMIC PRESENTATIONS (italics are by coauthors)
 * 2025
-  - AEA (poster session), AFFECT Workshop, BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation, _Lapland Investment Fund Summit_.
+  - AEA (poster session), AFFECT Workshop, BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation, _Lapland Investment Fund Summit_, University of Bocconi.
 * 2024
-  - BIS Research Seminars (x2), Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics Workshop, Swiss National Bank. 
+  - BIS Research Seminars (x2), Generative AI in Finance SI Paper Development Workshop, Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics Workshop, Swiss National Bank. 
 * 2023
   - AWG-MPAG Annual Workshop, Behavioral Macroeconomics Workshop, BIS Research Seminar, BIS-SNB Research Workshop, _BOK-BOJ Joint Research Workshop_,  _CEPR Paris Symposium_, Sydney Banking and Financial Stability Conference, Workshop on Macroeconomics and Survey Data.
 * 2022 and earlier
@@ -48,9 +49,9 @@ redirect_from:
 
 ### OTHER PROFESSIONAL ACTIVITIES
   * Organizing Committee:
-    - Joint BIS, BoE, ECB and IMF Spillover Conference (2024, 2023)
+    - Joint BIS, BoE, ECB and IMF Spillover Conference (2025, 2024, 2023)
     - 5th BIS Workshop on Research on Global Financial Stability. 2023
-    - Workshop on "Exchange Rates" (2022, 2024)
+    - Workshop on "Exchange Rates" (2022, 2024, 2026)
   * Recruitment Committee (2021, 2022)
   * Board Member of Female Economist Network of Stockholm and Uppsala (2017)
 
