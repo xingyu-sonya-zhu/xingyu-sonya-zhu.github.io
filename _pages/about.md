@@ -12,11 +12,16 @@ redirect_from:
   * [Non-standard errors](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337) (with Albert Menkveld et al.). Journal of Finance.
 
 ### SELECTED WORKING PAPERS
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
-  * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**).
-  * [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev).
-  * [Predicting financial market stress with machine learning](https://www.bis.org/publ/work1250.htm) (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf)
-  * Passive Institutional Ownership and Loan Spread (with Konrad Adler and Sebastian Doerr) (**draft coming soon**).
+* Monetary Policy
+  - [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**).
+* Liquidity
+  - [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
+  - [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev) (**under review**).
+* Financial Intermediation
+  - Passive Institutional Ownership and Loan Spread (with Konrad Adler and Sebastian Doerr) (**draft coming soon**).
+* Machine Learning
+  - [Predicting financial market stress with machine learning](https://www.bis.org/publ/work1250.htm) (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf).
+  - [CB-LMs: language models for central banking](https://www.bis.org/publ/work1215.htm) (with Leonardo Gambacorta, Byeungchun Kwon, Taejin Park, Pietro Patelli) (**under review**), October 2024.
 
 ### EDUCATION
 * Ph.D. in Finance, Stockholm School of Economics, 2021.
@@ -35,7 +40,6 @@ redirect_from:
   - Australasian Finance and Banking Conference, Bank for International Settlements, E(astern)FA, Hong Kong University of Science and Technology (Guangzhou), National PhD Workshop in Finance, PhD Nordic Finance Workshop, Stockholm School of Economics, University of Gothenburg, University of Vienna, Young Scholars Nordic Finance Workshop. 
 
 ### OTHER PUBLICATIONS
-  * [CB-LMs: language models for central banking](https://www.bis.org/publ/work1215.htm) (with Leonardo Gambacorta, Byeungchun Kwon, Taejin Park, Pietro Patelli). BIS Working Paper, October 2024.
   * [Markets' increasing response to labour market conditions in the United States](https://www.bis.org/publ/qtrpdf/r_qt2409v.htm) (with Dora Xia). BIS Quarterly Review, September 2024.
   * [International finance through the lens of BIS statistics: the global reach of currencies](https://www.bis.org/publ/qtrpdf/r_qt2406b.htm) (with Patrick McGuire and Goetz von Peter). BIS Quarterly Review, June 2024.
   * [International finance through the lens of BIS statistics: residence vs nationality](https://www.bis.org/publ/qtrpdf/r_qt2403f.htm) (with Patrick McGuire and Goetz von Peter). BIS Quarterly Review, March 2024.
