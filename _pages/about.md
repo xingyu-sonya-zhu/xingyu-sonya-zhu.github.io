@@ -13,9 +13,9 @@ redirect_from:
 
 ### SELECTED WORKING PAPERS
   * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
-  * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**)
   * [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev) (**under review**)
   * [Predicting financial market stress with machine learning](https://www.bis.org/publ/work1250.htm) (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf)
+  * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**)
   * [CB-LMs: language models for central banking](https://www.bis.org/publ/work1215.htm) (with Leonardo Gambacorta, Byeungchun Kwon, Taejin Park, Pietro Patelli) (**under review**)
   * Passive Institutional Ownership and Loan Spread (with Konrad Adler and Sebastian Doerr) (**draft coming soon**)
 
@@ -44,7 +44,7 @@ redirect_from:
 
 ### ACADEMIC PRESENTATIONS (italics are by coauthors)
 * 2025
-  - AEA (poster session), AFFECT Workshop, BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation, _CEBRA_, _Lapland Investment Fund Summit_, St Gallen Financial Economics Workshop, BSE SUMMER FORUMUniversity of Bocconi, University of St Gallen, _World Congress of Econometric Society_.
+  - AEA (poster session), AFFECT Workshop, _BSE SUMMER FORUM_, BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation, _CEBRA_, _HKMA_, _Lapland Investment Fund Summit_, St Gallen Financial Economics Workshop, BSE SUMMER FORUMUniversity of Bocconi, University of St Gallen, _World Congress of Econometric Society_.
 * 2024
   - _Australasian Macroeconomics Society_, BIS Research Seminars (x2),Generative AI in Finance SI Paper Development Workshop, Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics Workshop, Swiss National Bank. 
 * 2023
