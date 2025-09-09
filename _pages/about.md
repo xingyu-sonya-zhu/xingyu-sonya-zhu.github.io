@@ -44,7 +44,7 @@ redirect_from:
 
 ### ACADEMIC PRESENTATIONS (italics are by coauthors)
 * 2025
-  - AEA (poster session), AFFECT Workshop, BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation, _BSE SUMMER FORUM_, _CEBRA_, _HKMA_, _Lapland Investment Fund Summit_, St Gallen Financial Economics Workshop, BSE SUMMER FORUMUniversity of Bocconi, University of St Gallen, _World Congress of Econometric Society_.
+  - AEA (poster session), AFFECT Workshop, BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation, _BSE SUMMER FORUM_, _CEBRA_, _HKMA_, _Lapland Investment Fund Summit_, St Gallen Financial Economics Workshop, University of Bocconi, University of St Gallen, _World Congress of Econometric Society_.
 * 2024
   - _Australasian Macroeconomics Society_, BIS Research Seminars (x2),Generative AI in Finance SI Paper Development Workshop, Lund University, _IAAE 2024 Annual Meeting_, ifo Dresden Workshop on Macroeconomics and International Finance, RES 2024 Annual Conference, _Southern Workshop in Macroeconomics_, St Gallen Financial Economics Workshop, Swiss National Bank. 
 * 2023
