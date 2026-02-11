@@ -9,17 +9,18 @@ redirect_from:
 ---
 
 ### ACADEMIC PUBLICATIONS
-  * [Non-standard errors](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337) (with Albert Menkveld et al.). Journal of Finance.
+  * [Non-standard errors](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337) (with Albert Menkveld et al.). Journal of Finance, 2024.
+  * [Macroeconomic news and repricing of monetary policy expectations](https://www.sciencedirect.com/science/article/pii/S0165176525006160) (with Dora Xia). Economics Letters, 2026.
 
 ### SELECTED WORKING PAPERS
-  * [Volume Dynamics around FOMC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730543) (**under review**).
   * [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev) (**under review**)
-  * [Predicting financial market stress with machine learning](https://www.bis.org/publ/work1250.htm) (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf)
+  * [Predicting financial market stress with machine learning](https://www.bis.org/publ/work1250.htm) (with Iñaki Aldasoro, Peter Hördahl, and Andreas Schrimpf) (**under review**)
   * [The Term Structure of Inflation Forecasts Disagreement and Monetary Policy Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531495) (with Alessandro Barbera and Fan Dora Xia) (**under review**)
   * [CB-LMs: language models for central banking](https://www.bis.org/publ/work1215.htm) (with Leonardo Gambacorta, Byeungchun Kwon, Taejin Park, Pietro Patelli) (**under review**)
-  * Passive Institutional Ownership and Loan Spread (with Konrad Adler and Sebastian Doerr) (**draft coming soon**)
-
+  * [Passive Institutional Ownership and Loan Spread](https://www.bis.org/publ/work1330.htm) (with Konrad Adler and Sebastian Doerr)
+    
 ### POLICY PUBLICATIONS
+  * How AI can help detect warning signs of financial market stress. [November 2025](https://cepr.org/voxeu/columns/how-ai-can-help-detect-warning-signs-financial-market-stress)
   * Statistical release: BIS international banking statistics and global liquidity indicators. [January 2025](https://www.bis.org/statistics/rppb2501.htm), [April 2025](https://www.bis.org/statistics/rppb2504.htm).
   * [Growing uncertainty about terminal rates](https://www.bis.org/publ/qtrpdf/r_qt2412x.htm) (with Matteo Aquilina and Marco Jacopo Lombardi). BIS Quarterly Review, December 2024.
   * [Markets' increasing response to labour market conditions in the United States](https://www.bis.org/publ/qtrpdf/r_qt2409v.htm) (with Dora Xia). BIS Quarterly Review, September 2024.
