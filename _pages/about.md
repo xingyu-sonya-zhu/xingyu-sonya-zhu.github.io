@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ### ACADEMIC PUBLICATIONS
-  * [Non-standard errors](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337) (with Albert Menkveld et al.). Journal of Finance, 2024.
-  * [Macroeconomic news and repricing of monetary policy expectations](https://www.sciencedirect.com/science/article/pii/S0165176525006160) (with Dora Xia). Economics Letters, 2026.
-  * [CB-LMs: language models for central banking](https://www.bis.org/publ/work1215.htm) (with Gambacorta et al.) (**Journal of Financial Stability**)
+  * [Non-standard errors] (with Albert Menkveld et al.). Journal of Finance, 2024.
+  * [Macroeconomic news and repricing of monetary policy expectations] (with Dora Xia). Economics Letters, 2026.
+  * [CB-LMs: language models for central banking] (with Gambacorta et al). Journal of Financial Stability, 2026.
 
 ### SELECTED WORKING PAPERS
   * [Through stormy seas: how fragile is liquidity across asset classes and time?](https://www.bis.org/publ/work1229.htm) (with Nihad Aliyev, Matteo Aquilina, and Khaladdin Rzayev) (**under review**)
